@@ -1,0 +1,46 @@
+[
+    {
+        "name": "E-Commerce FASHIONISTA",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "E-commerce de moda, o Fashionista, garantindo a melhor experiência possível para os usuários interagirem com os produtos.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    },
+    {
+        "name": "Instagram Réplica",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Desenvolvimento uma versão mobile first do Instagram utilizando apenas HTML5 e CSS3.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    },
+    {
+        "name": "Conversor de Escalas Musicais",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Biblioteca de transposição de escalas Maior, Menor, Pentatônica, Pentatônica Maior, Menor Melódica, Menor Harmônica, Menor de Blues em diferentes tonalidades.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    },
+    {
+        "name": "Rede de Apoio - RAH",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Aplicativo Web responsivo da Rede de Apoio nas e das Periferias (RAH), uma iniciativa dos movimentos negros e periféricos do munícipio de São Paulo.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    }
+]
